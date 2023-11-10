@@ -1,4 +1,4 @@
-# skhasnobish
+# Suyash Khasnobish
 As a dedicated and knowledgeable individual with a passion for technology, I have a rich educational background in Computer Systems Technology and Software Engineering.
 
 I completed an Advanced Diploma in Computer Systems Technology from Seneca College, where I gained comprehensive knowledge of computer networking. My studies focused on Unix/Linux OS, bash shell scripting, and the operations of routers, switches, hubs, and other network devices using Cisco Packet Tracer. I also developed skills in database management using SQL and MySQL and gained experience in Active Directory configurations using Windows Server OS.
